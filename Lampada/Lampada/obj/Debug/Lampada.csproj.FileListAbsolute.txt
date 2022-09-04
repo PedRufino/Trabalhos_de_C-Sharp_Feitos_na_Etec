@@ -1,0 +1,18 @@
+D:\Visual Studio\Lampada\Lampada\bin\Debug\Lampada.exe.config
+D:\Visual Studio\Lampada\Lampada\bin\Debug\Lampada.exe
+D:\Visual Studio\Lampada\Lampada\bin\Debug\Lampada.pdb
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.Form1.resources
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.Properties.Resources.resources
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.csproj.GenerateResource.Cache
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.exe
+D:\Visual Studio\Lampada\Lampada\obj\Debug\Lampada.pdb
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\bin\Debug\Lampada.exe.config
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.exe
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.pdb
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\bin\Debug\Lampada.exe
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\bin\Debug\Lampada.pdb
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.csprojResolveAssemblyReference.cache
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.Form1.resources
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.Properties.Resources.resources
+E:\2°Modulo\DS 1 - Val\Lampada\Lampada\obj\Debug\Lampada.csproj.GenerateResource.Cache
