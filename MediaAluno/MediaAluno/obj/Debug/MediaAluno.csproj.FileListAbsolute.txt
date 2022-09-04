@@ -1,0 +1,12 @@
+D:\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+D:\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+D:\MediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csprojResolveAssemblyReference.cache
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.Form1.resources
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.Cache
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+D:\MediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
+E:\2°Modulo\DS 1 - Val\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+E:\2°Modulo\DS 1 - Val\MediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+E:\2°Modulo\DS 1 - Val\MediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
