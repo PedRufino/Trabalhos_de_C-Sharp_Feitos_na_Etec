@@ -1,0 +1,10 @@
+D:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\2°Modulo\DS 1 - Val\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
